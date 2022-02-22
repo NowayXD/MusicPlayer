@@ -35,8 +35,8 @@ from core import (
 
 
 REPO = """
-🤖 **Music Player**
-- Repo: [GitHub](https://github.com/AsmSafone/MusicPlayer)
+[🤖](https://t.me/hjajajauwuhw/204) **PyTgMusic Player**
+- A Closed Repo
 - License: AGPL-3.0-or-later
 """
 
